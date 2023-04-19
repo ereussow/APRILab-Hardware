@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=5V Pin=LED1-A
+Added Component: Designator=R24(RES0603)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RMCF0603JT10K0CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=R24-1
+Added Pin To Net: NetName=NetLED1_A Pin=LED1-A
+Added Pin To Net: NetName=NetLED1_A Pin=R24-2
+Added Net: Name=NetLED1_A
+Added Member To Class: ClassName=Buck Converter Member=Component R24 Res

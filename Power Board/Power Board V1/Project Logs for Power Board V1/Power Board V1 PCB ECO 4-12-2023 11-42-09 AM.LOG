@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=Buck Converter Member=C12
+Removed Member From Class: ClassName=Battery Management System Member=R15
+Removed Member From Class: ClassName=Buck Converter Member=R17
+Change Component Footprint: Designator=C9 Old Footprint=CAPC0603 New Footprint=CAPC1206
+Change Component Footprint: Designator=C10 Old Footprint=CAPC1206 New Footprint=CAPC0603
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAPC0603"; UniqueID = "\JBKROITL" ("\JBKROITL")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1000-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "NS"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CAPC1206"; UniqueID = "\XWCJJDFY" ("\XWCJJDFY")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1000-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Buck Converter Member=Component C10 Cap
+Added Member To Class: ClassName=Buck Converter Member=Component C11 Cap
+Added Member To Class: ClassName=Battery Management System Member=Component C13 Cap
+Added Member To Class: ClassName=Battery Management System Member=Component C14 Cap
+Added Member To Class: ClassName=Battery Management System Member=Component C15 Cap
+Added Member To Class: ClassName=Battery Management System Member=Component J6 B2B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Battery Management System Member=Component J7 B5B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Buck Converter Member=Component R14 Res
+Added Member To Class: ClassName=Battery Management System Member=Component R20 Res
+Added Member To Class: ClassName=Battery Management System Member=Component R21 Res
+Added Member To Class: ClassName=Battery Management System Member=Component R22 Res
+Added Member To Class: ClassName=Battery Management System Member=Component R23 Res
