@@ -1,0 +1,13 @@
+Change Component Description : Designator=C8 Old Description= New Description=4.7uF
+Change Component Description : Designator=C7 Old Description= New Description=22uF 
+Change Component Description : Designator=C9 Old Description= New Description=NS
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CAPC1206"; UniqueID = "\DXUNVDUK" ("\DXUNVDUK")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=J8(Battery Connector)
+Added Pin To Net: NetName=BATT + Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=VCC_BUCK Pin=R1-2
+Added Pin To Net: NetName=VCC_BUCK Pin=R2-2
+Added Class: Name=Board Connector

@@ -1,0 +1,4 @@
+Added Component: Designator=J8(Battery Connector)
+Added Pin To Net: NetName=BATT + Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Member To Class: ClassName=Board Connector Member=Component J8 Surface Mount Pad to solder battery connector wires from power bus bar

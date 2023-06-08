@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=5V Pin=J9-1
+Removed Pin From Net: NetName=5V Pin=J9-2
+Removed Pin From Net: NetName=5V Pin=J9-3
+Removed Pin From Net: NetName=5V Pin=J9-4
+Removed Pin From Net: NetName=5V Pin=J9-5
+Removed Pin From Net: NetName=5V Pin=J9-6
+Removed Pin From Net: NetName=5V Pin=J9-7
+Removed Pin From Net: NetName=5V Pin=J9-8
+Removed Pin From Net: NetName=5V Pin=J9-9
+Removed Pin From Net: NetName=5V Pin=J9-10
+Removed Pin From Net: NetName=5V Pin=J9-11
+Removed Pin From Net: NetName=GND Pin=J9-33
+Removed Pin From Net: NetName=GND Pin=J9-34
+Removed Pin From Net: NetName=GND Pin=J9-35
+Removed Pin From Net: NetName=GND Pin=J9-36
+Removed Pin From Net: NetName=GND Pin=J9-37
+Removed Pin From Net: NetName=GND Pin=J9-38
+Removed Pin From Net: NetName=GND Pin=J9-39
+Removed Pin From Net: NetName=GND Pin=J9-40
+Removed Pin From Net: NetName=GND Pin=J9-41
+Removed Pin From Net: NetName=GND Pin=J9-42
+Removed Pin From Net: NetName=GND Pin=J9-43
+Added Pin To Net: NetName=5V Pin=J9-25
+Added Pin To Net: NetName=5V Pin=J9-26
+Added Pin To Net: NetName=5V Pin=J9-27
+Added Pin To Net: NetName=5V Pin=J9-28
+Added Pin To Net: NetName=5V Pin=J9-29
+Added Pin To Net: NetName=5V Pin=J9-30
+Added Pin To Net: NetName=5V Pin=J9-31
+Added Pin To Net: NetName=5V Pin=J9-32
+Added Pin To Net: NetName=GND Pin=J9-57
+Added Pin To Net: NetName=GND Pin=J9-58
+Added Pin To Net: NetName=GND Pin=J9-59
+Added Pin To Net: NetName=GND Pin=J9-60
+Added Pin To Net: NetName=GND Pin=J9-61
+Added Pin To Net: NetName=GND Pin=J9-62
+Added Pin To Net: NetName=GND Pin=J9-63
+Added Pin To Net: NetName=GND Pin=J9-64
+Added Member To Class: ClassName=Board Connector Member=Component J8 Surface Mount Pad to solder battery connector wires from power bus bar
+Added Member To Class: ClassName=Battery Management System Member=Component R21 Res
+Added Member To Class: ClassName=Battery Management System Member=Component R23 Res
