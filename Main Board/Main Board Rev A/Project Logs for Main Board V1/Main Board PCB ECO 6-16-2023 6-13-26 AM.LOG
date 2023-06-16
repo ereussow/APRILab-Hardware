@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=SW_PWM_1 Pin=P11-22
+Removed Pin From Net: NetName=SW_PWM_2 Pin=P11-24
+Removed Pin From Net: NetName=SW_PWM_3 Pin=P11-26
+Removed Pin From Net: NetName=SW_PWM_4 Pin=P11-28
+Removed Pin From Net: NetName=SW_PWM_5 Pin=P11-32
+Removed Pin From Net: NetName=SW_PWM_6 Pin=P11-36
+Removed Pin From Net: NetName=SW_PWM_7 Pin=P11-38
+Removed Pin From Net: NetName=SW_PWM_8 Pin=P11-40
+Added Pin To Net: NetName=SW_PWM_8 Pin=P11-22
+Added Pin To Net: NetName=SW_PWM_7 Pin=P11-24
+Added Pin To Net: NetName=SW_PWM_6 Pin=P11-26
+Added Pin To Net: NetName=SW_PWM_5 Pin=P11-28
+Added Pin To Net: NetName=SW_PWM_4 Pin=P11-32
+Added Pin To Net: NetName=SW_PWM_3 Pin=P11-36
+Added Pin To Net: NetName=SW_PWM_2 Pin=P11-38
+Added Pin To Net: NetName=SW_PWM_1 Pin=P11-40

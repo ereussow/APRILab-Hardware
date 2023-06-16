@@ -1,0 +1,253 @@
+Added Component: Designator=C1(CAPC0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=J1(1.0mm mezzanine connector 64 pin)
+Added Component: Designator=P1(MHDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(MHDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(MHDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4(MHDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P5(MHDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P6(MHDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P7(MHDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P8(MHDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P9(MHDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P10(MHDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P11(HDR2X20)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOP65P640X110-28N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "NXP USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PCA9685PW,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TSSOP-28 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/PCA9685PW,118/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(TSSOP16)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1727-4410-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U3(TSSOP16)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1727-4410-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C1-1
+Added Pin To Net: NetName=3.3V Pin=C3-1
+Added Pin To Net: NetName=3.3V Pin=P11-1
+Added Pin To Net: NetName=3.3V Pin=P11-17
+Added Pin To Net: NetName=3.3V Pin=U2-16
+Added Pin To Net: NetName=3.3V Pin=U3-16
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=C2-1
+Added Pin To Net: NetName=5V Pin=J1-12
+Added Pin To Net: NetName=5V Pin=J1-13
+Added Pin To Net: NetName=5V Pin=J1-14
+Added Pin To Net: NetName=5V Pin=J1-15
+Added Pin To Net: NetName=5V Pin=J1-16
+Added Pin To Net: NetName=5V Pin=J1-17
+Added Pin To Net: NetName=5V Pin=J1-18
+Added Pin To Net: NetName=5V Pin=J1-19
+Added Pin To Net: NetName=5V Pin=J1-20
+Added Pin To Net: NetName=5V Pin=J1-21
+Added Pin To Net: NetName=5V Pin=J1-22
+Added Pin To Net: NetName=5V Pin=J1-23
+Added Pin To Net: NetName=5V Pin=J1-24
+Added Pin To Net: NetName=5V Pin=J1-25
+Added Pin To Net: NetName=5V Pin=J1-26
+Added Pin To Net: NetName=5V Pin=J1-27
+Added Pin To Net: NetName=5V Pin=J1-28
+Added Pin To Net: NetName=5V Pin=J1-29
+Added Pin To Net: NetName=5V Pin=J1-30
+Added Pin To Net: NetName=5V Pin=J1-31
+Added Pin To Net: NetName=5V Pin=J1-32
+Added Pin To Net: NetName=5V Pin=P9-1
+Added Pin To Net: NetName=5V Pin=P10-1
+Added Pin To Net: NetName=5V Pin=P11-2
+Added Pin To Net: NetName=5V Pin=P11-4
+Added Pin To Net: NetName=5V Pin=U1-2
+Added Pin To Net: NetName=5V Pin=U1-3
+Added Pin To Net: NetName=5V Pin=U1-4
+Added Pin To Net: NetName=5V Pin=U1-5
+Added Pin To Net: NetName=5V Pin=U1-24
+Added Pin To Net: NetName=5V Pin=U1-28
+Added Net: Name=5V
+Added Pin To Net: NetName=EN_PWM Pin=P10-2
+Added Pin To Net: NetName=EN_PWM Pin=U1-23
+Added Pin To Net: NetName=EN_PWM Pin=U2-15
+Added Pin To Net: NetName=EN_PWM Pin=U3-15
+Added Net: Name=EN_PWM
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=J1-44
+Added Pin To Net: NetName=GND Pin=J1-45
+Added Pin To Net: NetName=GND Pin=J1-46
+Added Pin To Net: NetName=GND Pin=J1-47
+Added Pin To Net: NetName=GND Pin=J1-48
+Added Pin To Net: NetName=GND Pin=J1-49
+Added Pin To Net: NetName=GND Pin=J1-50
+Added Pin To Net: NetName=GND Pin=J1-51
+Added Pin To Net: NetName=GND Pin=J1-52
+Added Pin To Net: NetName=GND Pin=J1-53
+Added Pin To Net: NetName=GND Pin=J1-54
+Added Pin To Net: NetName=GND Pin=J1-55
+Added Pin To Net: NetName=GND Pin=J1-56
+Added Pin To Net: NetName=GND Pin=J1-57
+Added Pin To Net: NetName=GND Pin=J1-58
+Added Pin To Net: NetName=GND Pin=J1-59
+Added Pin To Net: NetName=GND Pin=J1-60
+Added Pin To Net: NetName=GND Pin=J1-61
+Added Pin To Net: NetName=GND Pin=J1-62
+Added Pin To Net: NetName=GND Pin=J1-63
+Added Pin To Net: NetName=GND Pin=J1-64
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P4-3
+Added Pin To Net: NetName=GND Pin=P5-3
+Added Pin To Net: NetName=GND Pin=P6-3
+Added Pin To Net: NetName=GND Pin=P7-3
+Added Pin To Net: NetName=GND Pin=P8-3
+Added Pin To Net: NetName=GND Pin=P9-3
+Added Pin To Net: NetName=GND Pin=P10-3
+Added Pin To Net: NetName=GND Pin=P11-6
+Added Pin To Net: NetName=GND Pin=P11-9
+Added Pin To Net: NetName=GND Pin=P11-14
+Added Pin To Net: NetName=GND Pin=P11-20
+Added Pin To Net: NetName=GND Pin=P11-25
+Added Pin To Net: NetName=GND Pin=P11-30
+Added Pin To Net: NetName=GND Pin=P11-34
+Added Pin To Net: NetName=GND Pin=P11-39
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-25
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Net: Name=GND
+Added Pin To Net: NetName=HW_PWM_1 Pin=U1-6
+Added Pin To Net: NetName=HW_PWM_1 Pin=U2-3
+Added Net: Name=HW_PWM_1
+Added Pin To Net: NetName=HW_PWM_2 Pin=U1-7
+Added Pin To Net: NetName=HW_PWM_2 Pin=U2-6
+Added Net: Name=HW_PWM_2
+Added Pin To Net: NetName=HW_PWM_3 Pin=U1-8
+Added Pin To Net: NetName=HW_PWM_3 Pin=U2-10
+Added Net: Name=HW_PWM_3
+Added Pin To Net: NetName=HW_PWM_4 Pin=U1-9
+Added Pin To Net: NetName=HW_PWM_4 Pin=U2-13
+Added Net: Name=HW_PWM_4
+Added Pin To Net: NetName=HW_PWM_5 Pin=U1-10
+Added Pin To Net: NetName=HW_PWM_5 Pin=U3-3
+Added Net: Name=HW_PWM_5
+Added Pin To Net: NetName=HW_PWM_6 Pin=U1-11
+Added Pin To Net: NetName=HW_PWM_6 Pin=U3-6
+Added Net: Name=HW_PWM_6
+Added Pin To Net: NetName=HW_PWM_7 Pin=U1-12
+Added Pin To Net: NetName=HW_PWM_7 Pin=U3-10
+Added Net: Name=HW_PWM_7
+Added Pin To Net: NetName=HW_PWM_8 Pin=U1-13
+Added Pin To Net: NetName=HW_PWM_8 Pin=U3-13
+Added Net: Name=HW_PWM_8
+Added Pin To Net: NetName=I2C1_SCL Pin=P11-5
+Added Pin To Net: NetName=I2C1_SCL Pin=U1-26
+Added Net: Name=I2C1_SCL
+Added Pin To Net: NetName=I2C1_SDA Pin=P11-3
+Added Pin To Net: NetName=I2C1_SDA Pin=U1-27
+Added Net: Name=I2C1_SDA
+Added Pin To Net: NetName=MOTOR_1 Pin=P1-1
+Added Pin To Net: NetName=MOTOR_1 Pin=U2-4
+Added Net: Name=MOTOR_1
+Added Pin To Net: NetName=MOTOR_2 Pin=P2-1
+Added Pin To Net: NetName=MOTOR_2 Pin=U2-7
+Added Net: Name=MOTOR_2
+Added Pin To Net: NetName=MOTOR_3 Pin=P3-1
+Added Pin To Net: NetName=MOTOR_3 Pin=U2-9
+Added Net: Name=MOTOR_3
+Added Pin To Net: NetName=MOTOR_4 Pin=P4-1
+Added Pin To Net: NetName=MOTOR_4 Pin=U2-12
+Added Net: Name=MOTOR_4
+Added Pin To Net: NetName=MOTOR_5 Pin=P8-1
+Added Pin To Net: NetName=MOTOR_5 Pin=U3-4
+Added Net: Name=MOTOR_5
+Added Pin To Net: NetName=MOTOR_6 Pin=P7-1
+Added Pin To Net: NetName=MOTOR_6 Pin=U3-7
+Added Net: Name=MOTOR_6
+Added Pin To Net: NetName=MOTOR_7 Pin=P6-1
+Added Pin To Net: NetName=MOTOR_7 Pin=U3-9
+Added Net: Name=MOTOR_7
+Added Pin To Net: NetName=MOTOR_8 Pin=P5-1
+Added Pin To Net: NetName=MOTOR_8 Pin=U3-12
+Added Net: Name=MOTOR_8
+Added Pin To Net: NetName=SEL_PWM Pin=P9-2
+Added Pin To Net: NetName=SEL_PWM Pin=U2-1
+Added Pin To Net: NetName=SEL_PWM Pin=U3-1
+Added Net: Name=SEL_PWM
+Added Pin To Net: NetName=SW_PWM_1 Pin=P11-22
+Added Pin To Net: NetName=SW_PWM_1 Pin=U2-2
+Added Net: Name=SW_PWM_1
+Added Pin To Net: NetName=SW_PWM_2 Pin=P11-24
+Added Pin To Net: NetName=SW_PWM_2 Pin=U2-5
+Added Net: Name=SW_PWM_2
+Added Pin To Net: NetName=SW_PWM_3 Pin=P11-26
+Added Pin To Net: NetName=SW_PWM_3 Pin=U2-11
+Added Net: Name=SW_PWM_3
+Added Pin To Net: NetName=SW_PWM_4 Pin=P11-28
+Added Pin To Net: NetName=SW_PWM_4 Pin=U2-14
+Added Net: Name=SW_PWM_4
+Added Pin To Net: NetName=SW_PWM_5 Pin=P11-32
+Added Pin To Net: NetName=SW_PWM_5 Pin=U3-2
+Added Net: Name=SW_PWM_5
+Added Pin To Net: NetName=SW_PWM_6 Pin=P11-36
+Added Pin To Net: NetName=SW_PWM_6 Pin=U3-5
+Added Net: Name=SW_PWM_6
+Added Pin To Net: NetName=SW_PWM_7 Pin=P11-38
+Added Pin To Net: NetName=SW_PWM_7 Pin=U3-11
+Added Net: Name=SW_PWM_7
+Added Pin To Net: NetName=SW_PWM_8 Pin=P11-40
+Added Pin To Net: NetName=SW_PWM_8 Pin=U3-14
+Added Net: Name=SW_PWM_8
+Added Class: Name=Main_Board_Motor Control

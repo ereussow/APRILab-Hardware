@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=SW_PWM_8 Pin=P11-22
+Removed Pin From Net: NetName=SW_PWM_7 Pin=P11-24
+Removed Pin From Net: NetName=SW_PWM_6 Pin=P11-26
+Removed Pin From Net: NetName=SW_PWM_5 Pin=P11-28
+Added Pin To Net: NetName=SW_PWM_8 Pin=P11-7
+Added Pin To Net: NetName=SW_PWM_7 Pin=P11-11
+Added Pin To Net: NetName=SW_PWM_6 Pin=P11-13
+Added Pin To Net: NetName=SW_PWM_5 Pin=P11-15
+Added Member To Class: ClassName=Main Board Motor Control Member=Component U2 74CBTLV3257

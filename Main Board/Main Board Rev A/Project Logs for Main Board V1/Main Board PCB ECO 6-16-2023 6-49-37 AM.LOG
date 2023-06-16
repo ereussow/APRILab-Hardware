@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SW_PWM_4 Pin=P11-32
+Removed Pin From Net: NetName=SW_PWM_3 Pin=P11-36
+Removed Pin From Net: NetName=SW_PWM_2 Pin=P11-38
+Removed Pin From Net: NetName=SW_PWM_1 Pin=P11-40
+Added Pin To Net: NetName=SW_PWM_4 Pin=P11-31
+Added Pin To Net: NetName=SW_PWM_3 Pin=P11-33
+Added Pin To Net: NetName=SW_PWM_2 Pin=P11-35
+Added Pin To Net: NetName=SW_PWM_1 Pin=P11-37
